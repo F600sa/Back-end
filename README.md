@@ -9,7 +9,8 @@ https://matajer-app.herokuapp.com/
 Matajer  enables anyone to launch their online store and get what they need to manage their e-commerce with ease and simplicity
 
 ## Inspiration:
- Facilitation create commerce websites 
+ - Facilitation create commerce websites 
+ - Create stores easily
 
 ## List of Services / Features:
 - Manage everything easily
