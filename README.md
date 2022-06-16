@@ -6,21 +6,20 @@ https://matajer-app.herokuapp.com/
 # Project Name:  Matajer
 
 ## Idea:
-create commerce website,low cost,ease of Access (Create website for client)
+Matajer  enables anyone to launch their online store and get what they need to manage their e-commerce with ease and simplicity
 
 ## Inspiration:
  Facilitation create commerce websites 
 
-
 ## List of Services / Features:
-
+- Manage everything easily
 - Manage website
 - the resolution of problems concerning website
 - Manage online assessments.
 
 
 ## User Stories
-- Type of users: Admin, Client,Customer, and Developer.
+- Type of users: Admin, Client, and Developer.
 
 ### Admin
 
@@ -32,30 +31,18 @@ create commerce website,low cost,ease of Access (Create website for client)
 ### Client
 
 - View  Products.
-- Add product
-- Delete the product
+- Add product.
+- Delete the product.
 - Edit information.
-- Send Inquiries to Developer
+- Send Inquiries to Developer.
 - View product information.
-- Search for courses.
+
 
 ### developer
 
-- View Client
+- View Client.
 - View Client information.
 - List joined Clients.
-- Add designs
-- Edit designs
+- Add designs.
+- Edit designs.
 - Get Client information.
-
-
-### Customer
-
-- View  Products.
-- Send Inquiries to seller
-- View course product.
-- Search for products.
-- review
-
-
-
