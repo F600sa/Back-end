@@ -34,7 +34,6 @@
           <option value="ToDoProject.TodoApp.urls.ToDoApp" />
           <option value="ToDoProject.TodoApp.TodoApp" />
           <option value="IMDB.movies.views.django" />
-          <option value="DATABASES" />
         </list>
       </option>
     </inspection_tool>
